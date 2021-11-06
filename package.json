@@ -1,6 +1,5 @@
 {
-  "name": "TonySeo98Website",
-  "lockfileVersion": 2,
-  "requires": true,
-  "packages": {}
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
