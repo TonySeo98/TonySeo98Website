@@ -1,4 +1,6 @@
-
+body{
+    background:black
+}
 
 ul {
     margin: 0;
@@ -13,4 +15,8 @@ li {
 
 .navigation-bar{
     background-color: black;
+}
+
+about-me .my-picture{
+    
 }
